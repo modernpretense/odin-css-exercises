@@ -4,15 +4,15 @@
 }
 
 #second {
-    color: blue;
-    font-size: 36;
+    color: rgb(30, 30, 190);
+    font-size: 36px;
 }
 
 .third {
-    font-size: 24;
+    font-size: 24px;
 }
 #forth {
     background-color: rgb(65, 118, 65);
-    font-size: 24;
+    font-size: 24px;
     font-weight: bold;
 }
